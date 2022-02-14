@@ -2,11 +2,18 @@
 
 [pico:ed de Elecfreaks](https://www.elecfreaks.com/picoed.html)
 
+![](./images/elecfreaks_picoed_800_1.jpg)
+![](./images/elecfreaks_picoed_800_2.jpg)
+
 Basada en el RP2040 (Raspberry Pico)
 SRAM	256KB
 Flash	2MB
 GPIO	19 Pcs
 En la placa: Buzzer, LED, 7x17 LED matrix, 2 * Button
+
+![](./images/picoed_pinout.jpg)
+
+(imágenes cortesía de elecfreaks)
 
 Trae micropython 1.17
 
